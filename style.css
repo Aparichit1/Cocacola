@@ -128,6 +128,10 @@ html, body{
     margin-right: 10px;
 }
 
+#left i{
+    color: blue;
+}
+
 #center-bg{
     background-color: blue;
     height: 88%;
